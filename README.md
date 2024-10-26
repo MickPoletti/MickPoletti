@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickPoletti
 - 👀 I’m interested in web, game and embedded development.
-- 🌱 I’m currently learning how to make a javascript game using ReactJS.
+- 🌱 I’m currently creating a mod for Minecraft.
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
