@@ -1,37 +1,69 @@
-                                               - 👋 Hi, I’m @MickPoletti
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5lbndoYXQ4aGVjN29mYmEybTl4NTI5cWthcGE2MGQzeGFhMmdxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQaT4tksdVuHBrW/giphy.gif"  />
+</div>
 
-                             .-----.
-                            /7  .  (
-                           /   .-.  \
-                          /   /   \  \
-                         / `  )   (   )
-                        / `   )   ).  \
-                      .'  _.   \_/  . |
-     .--.           .' _.' )`.        |
-    (    `---...._.'   `---.'_)    ..  \
-     \            `----....___    `. \  |
-      `.           _ ----- _   `._  )/  |
-        `.       /"  \   /"  \`.  `._   |
-          `.    ((O)` ) ((O)` ) `.   `._\
-            `-- '`---'   `---' )  `.    `-.
-               /                  ` \      `-.
-             .'                      `.       `.
-            /                     `  ` `.       `-.
-     .--.   \ ===._____.======. `    `   `. .___.--`     .''''.
-    ' .` `-. `.                )`. `   ` ` \          .' . '  8)
-   (8  .  ` `-.`.               ( .  ` `  .`\      .'  '    ' /
-    \  `. `    `-.               ) ` .   ` ` \  .'   ' .  '  /
-     \ ` `.  ` . \`.    .--.     |  ` ) `   .``/   '  // .  /
-      `.  ``. .   \ \   .-- `.  (  ` /_   ` . / ' .  '/   .'
-        `. ` \  `  \ \  '-.   `-'  .'  `-.  `   .  .'/  .'
-          \ `.`.  ` \ \    ) /`._.`       `.  ` .  .'  /
-    LGB    |  `.`. . \ \  (.'               `.   .'  .'
-        __/  .. \ \ ` ) \                     \.' .. \__
- .-._.-'     '"  ) .-'   `.                   (  '"     `-._.--.
-(_________.-====' / .' /\_)`--..__________..-- `====-. _________)
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/masonpatmcdaniel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mickpoletti" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
+</div>
 
-<!---
-MickPoletti/MickPoletti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<h1 align="center">MickPoletti</h1>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cmake" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MickPoletti/MickPoletti/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MickPoletti/MickPoletti/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MickPoletti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MickPoletti/MickPoletti/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MickPoletti/MickPoletti/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MickPoletti/MickPoletti/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
