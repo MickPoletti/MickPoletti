@@ -58,6 +58,8 @@
   <img src="https://streak-stats.demolab.com?user=MickPoletti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=mickpoletti)](https://github.com/stats-organization/github-stats-extended)
+
 ###
 
 <picture>
