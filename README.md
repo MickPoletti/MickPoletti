@@ -51,14 +51,8 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MickPoletti/MickPoletti/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MickPoletti/MickPoletti/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MickPoletti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=mickpoletti)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mickpoletti&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=mickpoletti&show_icons=true&include_all_commits=true&theme=dracula)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mickpoletti&layout=compact&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=mickpoletti&layout=compact&langs_count=6&theme=dracula)
 
 ###
 
